@@ -30,11 +30,11 @@
 </body>
 <script>
 	const handlers = {
-		sidebar: 'https://gist.githubusercontent.com/Solvanar/12a38371eaee9ebe12a64152056c72ef/raw/f291774ddf18b8ce987b2e33a1d88a1a4aa5850d/iframe.php',
-		smilesSelector: 'https://gist.githubusercontent.com/Solvanar/12a38371eaee9ebe12a64152056c72ef/raw/f291774ddf18b8ce987b2e33a1d88a1a4aa5850d/iframe.php',
-		textarea: 'https://gist.githubusercontent.com/Solvanar/12a38371eaee9ebe12a64152056c72ef/raw/f291774ddf18b8ce987b2e33a1d88a1a4aa5850d/iframe.php',
-		contextMenu: 'https://gist.githubusercontent.com/Solvanar/12a38371eaee9ebe12a64152056c72ef/raw/f291774ddf18b8ce987b2e33a1d88a1a4aa5850d/iframe.php',
-		navigation: 'https://gist.githubusercontent.com/Solvanar/12a38371eaee9ebe12a64152056c72ef/raw/f291774ddf18b8ce987b2e33a1d88a1a4aa5850d/iframe.php',
+		sidebar: 'https://immarket-production.up.railway.app/handlers/iframe_content.php',
+		smilesSelector: 'https://immarket-production.up.railway.app/handlers/iframe_content.php',
+		textarea: 'https://immarket-production.up.railway.app/handlers/iframe_content.php',
+		contextMenu: 'https://immarket-production.up.railway.app/handlers/iframe_content.php',
+		navigation: 'https://immarket-production.up.railway.app/handlers/iframe_content.php',
 	};
 
 	const placements = {
