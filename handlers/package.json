@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@bitrix24/b24jssdk": "^1.0.1"
+  }
+}

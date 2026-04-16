@@ -1,0 +1,11 @@
+.app-workarea {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-width: 500px;
+	min-height: 500px;
+}
+.app-call-card {
+
+
+}
